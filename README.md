@@ -15,12 +15,12 @@ Rationale: Forest fires and wildfires have become a frequent part in our daily l
 
 What could we do to predict fires thus preventing loss of life and property?
 
-Data Needs/Sources include: Weather data (rainfall, humidity, lightning strikes, wind), forest density, topography data, US Forest/Park Service (campfires), Google Maps(proximity to water, road density, etc.), Census data (population density), 
+Data Needs/Sources include: Weather data (rainfall, humidity, lightning strikes, wind), forest density, topography data, US Forest/Park Service (campfires), Google Maps(proximity to water, road density, etc.), Census data (population density), US Core Science for Geography (topography/hydrography)
 
 First step in analysis:
     Explore data to determine time frame of analysis (expected to be 1992 to 
 2015)
-    Begin to map US wildfire data to obtain locations of interest and begin to plot     
+    Begin to map State/US wildfire data to obtain locations of interest and begin to     plot     
 collect longitudinal data about those points
  Plot average temperature and # of wildfires to determine correlation
 
