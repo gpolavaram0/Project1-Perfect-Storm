@@ -1,9 +1,9 @@
 Id,Id2,Geography,Target Geo Id,Target Geo Id2,Geographical Area1,Geographical Area2,Population,Housing Units,Area in square miles - Total area,Area in square miles - Water area,Area in square miles - Land area,Density per square mile of land area - Population,Density per square mile of land area - Housing units
-0100000US,,United States,0100000US,,United States,United States,308745538(r38234),131704730(r15031),3796742.23,264836.79,3531905.43,87.4,37.3
-0100000US,,United States,0400000US01,01,United States - Alabama,Alabama,4779736(r38235),2171853(r15032),52420.07,1774.74,50645.33,94.4,42.9
+0100000US,,United States,0100000US,,United States,United States,308745538,131704730,3796742.23,264836.79,3531905.43,87.4,37.3
+0100000US,,United States,0400000US01,01,United States - Alabama,Alabama,4779736,2171853,52420.07,1774.74,50645.33,94.4,42.9
 0100000US,,United States,0500000US01001,01001,United States - Alabama - Autauga County,Autauga County,54571,22135,604.39,9.95,594.44,91.8,37.2
 0100000US,,United States,0500000US01003,01003,United States - Alabama - Baldwin County,Baldwin County,182265,104061,2027.31,437.53,1589.78,114.6,65.5
-0100000US,,United States,0500000US01005,01005,United States - Alabama - Barbour County,Barbour County,27457,11829(r15033),904.52,19.64,884.88,31.0,13.4
+0100000US,,United States,0500000US01005,01005,United States - Alabama - Barbour County,Barbour County,27457,11829,904.52,19.64,884.88,31.0,13.4
 0100000US,,United States,0500000US01007,01007,United States - Alabama - Bibb County,Bibb County,22915,8981,626.17,3.59,622.58,36.8,14.4
 0100000US,,United States,0500000US01009,01009,United States - Alabama - Blount County,Blount County,57322,23887,650.63,5.85,644.78,88.9,37.0
 0100000US,,United States,0500000US01011,01011,United States - Alabama - Bullock County,Bullock County,10914,4493,625.14,2.34,622.80,17.5,7.2
@@ -37,11 +37,11 @@ Id,Id2,Geography,Target Geo Id,Target Geo Id2,Geographical Area1,Geographical Ar
 0100000US,,United States,0500000US01067,01067,United States - Alabama - Henry County,Henry County,17302,8891,568.31,6.56,561.75,30.8,15.8
 0100000US,,United States,0500000US01069,01069,United States - Alabama - Houston County,Houston County,101547,45319,581.65,1.83,579.82,175.1,78.2
 0100000US,,United States,0500000US01071,01071,United States - Alabama - Jackson County,Jackson County,53227,24786,1126.77,48.90,1077.87,49.4,23.0
-0100000US,,United States,0500000US01073,01073,United States - Alabama - Jefferson County,Jefferson County,658466(r38264),300552(r15062),1123.81,12.54,1111.28,592.5,270.5
+0100000US,,United States,0500000US01073,01073,United States - Alabama - Jefferson County,Jefferson County,658466,300552,1123.81,12.54,1111.28,592.5,270.5
 0100000US,,United States,0500000US01075,01075,United States - Alabama - Lamar County,Lamar County,14564,7354,605.46,0.62,604.85,24.1,12.2
 0100000US,,United States,0500000US01077,01077,United States - Alabama - Lauderdale County,Lauderdale County,92709,43791,720.99,53.29,667.70,138.8,65.6
 0100000US,,United States,0500000US01079,01079,United States - Alabama - Lawrence County,Lawrence County,34339,15229,717.20,26.52,690.68,49.7,22.0
-0100000US,,United States,0500000US01081,01081,United States - Alabama - Lee County,Lee County,140247(r38032),62391(r14841),615.85,8.31,607.54,230.8,102.7
+0100000US,,United States,0500000US01081,01081,United States - Alabama - Lee County,Lee County,1402473,62391,615.85,8.31,607.54,230.8,102.7
 0100000US,,United States,0500000US01083,01083,United States - Alabama - Limestone County,Limestone County,82782,34977,607.19,47.25,559.94,147.8,62.5
 0100000US,,United States,0500000US01085,01085,United States - Alabama - Lowndes County,Lowndes County,11299,5140,725.07,9.16,715.91,15.8,7.2
 0100000US,,United States,0500000US01087,01087,United States - Alabama - Macon County,Macon County,21452,10259,613.21,4.32,608.89,35.2,16.8
@@ -49,7 +49,7 @@ Id,Id2,Geography,Target Geo Id,Target Geo Id2,Geographical Area1,Geographical Ar
 0100000US,,United States,0500000US01091,01091,United States - Alabama - Marengo County,Marengo County,21027,10237,982.67,5.79,976.88,21.5,10.5
 0100000US,,United States,0500000US01093,01093,United States - Alabama - Marion County,Marion County,30776,14737,743.57,1.28,742.29,41.5,19.9
 0100000US,,United States,0500000US01095,01095,United States - Alabama - Marshall County,Marshall County,93019,40342,623.18,57.34,565.84,164.4,71.3
-0100000US,,United States,0500000US01097,01097,United States - Alabama - Mobile County,Mobile County,412992(r38160),178196(r14961),1644.01,414.58,1229.44,335.9,144.9
+0100000US,,United States,0500000US01097,01097,United States - Alabama - Mobile County,Mobile County,412992,178196,1644.01,414.58,1229.44,335.9,144.9
 0100000US,,United States,0500000US01099,01099,United States - Alabama - Monroe County,Monroe County,23068,11333,1034.42,8.74,1025.67,22.5,11.0
 0100000US,,United States,0500000US01101,01101,United States - Alabama - Montgomery County,Montgomery County,229363,101641,799.91,15.66,784.25,292.5,129.6
 0100000US,,United States,0500000US01103,01103,United States - Alabama - Morgan County,Morgan County,119490,51193,599.05,19.72,579.34,206.3,88.4
@@ -68,7 +68,7 @@ Id,Id2,Geography,Target Geo Id,Target Geo Id2,Geographical Area1,Geographical Ar
 0100000US,,United States,0500000US01129,01129,United States - Alabama - Washington County,Washington County,17581,8407,1088.57,8.36,1080.21,16.3,7.8
 0100000US,,United States,0500000US01131,01131,United States - Alabama - Wilcox County,Wilcox County,11670,5649,907.41,18.91,888.50,13.1,6.4
 0100000US,,United States,0500000US01133,01133,United States - Alabama - Winston County,Winston County,24484,13469,631.87,18.89,612.98,39.9,22.0
-0100000US,,United States,0400000US02,02,United States - Alaska,Alaska,710231(r38823),306967(r15611),665384.04,94743.10,570640.95,1.2,0.5
+0100000US,,United States,0400000US02,02,United States - Alaska,Alaska,710231,306967,665384.04,94743.10,570640.95,1.2,0.5
 0100000US,,United States,0500000US02013,02013,United States - Alaska - Aleutians East Borough,Aleutians East Borough,3141,747,15009.86,8027.92,6981.94,0.4,0.1
 0100000US,,United States,0500000US02016,02016,United States - Alaska - Aleutians West Census Area,Aleutians West Census Area,5561,1929,14116.44,9726.16,4390.28,1.3,0.4
 0100000US,,United States,0500000US02020,02020,United States - Alaska - Anchorage Municipality,Anchorage Municipality,291826,113032,1961.00,256.32,1704.68,171.2,66.3
@@ -83,7 +83,7 @@ Id,Id2,Geography,Target Geo Id,Target Geo Id2,Geographical Area1,Geographical Ar
 0100000US,,United States,0500000US02122,02122,United States - Alaska - Kenai Peninsula Borough,Kenai Peninsula Borough,55400,30578,24752.32,8676.99,16075.33,3.4,1.9
 0100000US,,United States,0500000US02130,02130,United States - Alaska - Ketchikan Gateway Borough,Ketchikan Gateway Borough,13477,6166,6653.56,1795.15,4858.41,2.8,1.3
 0100000US,,United States,0500000US02150,02150,United States - Alaska - Kodiak Island Borough,Kodiak Island Borough,13592,5303,12021.83,5472.25,6549.58,2.1,0.8
-0100000US,,United States,0500000US02164,02164,United States - Alaska - Lake and Peninsula Borough,Lake and Peninsula Borough,1631(r38835),1502(r15613),32922.50,9270.49,23652.01,0.1,0.1
+0100000US,,United States,0500000US02164,02164,United States - Alaska - Lake and Peninsula Borough,Lake and Peninsula Borough,1631,1502,32922.50,9270.49,23652.01,0.1,0.1
 0100000US,,United States,0500000US02170,02170,United States - Alaska - Matanuska-Susitna Borough,Matanuska-Susitna Borough,88995,41329,25257.61,649.71,24607.90,3.6,1.7
 0100000US,,United States,0500000US02180,02180,United States - Alaska - Nome Census Area,Nome Census Area,9492,4008,28277.62,5315.86,22961.76,0.4,0.2
 0100000US,,United States,0500000US02185,02185,United States - Alaska - North Slope Borough,North Slope Borough,9430,2500,94796.28,6100.87,88695.41,0.1,0.0
@@ -114,7 +114,7 @@ Id,Id2,Geography,Target Geo Id,Target Geo Id2,Geographical Area1,Geographical Ar
 0100000US,,United States,0500000US04023,04023,United States - Arizona - Santa Cruz County,Santa Cruz County,47420,18010,1238.11,1.19,1236.92,38.3,14.6
 0100000US,,United States,0500000US04025,04025,United States - Arizona - Yavapai County,Yavapai County,211033,110432,8127.94,4.44,8123.50,26.0,13.6
 0100000US,,United States,0500000US04027,04027,United States - Arizona - Yuma County,Yuma County,195751,87850,5519.11,5.12,5513.99,35.5,15.9
-0100000US,,United States,0400000US05,05,United States - Arkansas,Arkansas,2915918(r39193),1316299(r15934),53178.55,1143.07,52035.48,56.0,25.3
+0100000US,,United States,0400000US05,05,United States - Arkansas,Arkansas,2915918,1316299,53178.55,1143.07,52035.48,56.0,25.3
 0100000US,,United States,0500000US05001,05001,United States - Arkansas - Arkansas County,Arkansas County,19019,9436,1033.75,44.98,988.77,19.2,9.5
 0100000US,,United States,0500000US05003,05003,United States - Arkansas - Ashley County,Ashley County,21853,10137,940.53,15.18,925.35,23.6,11.0
 0100000US,,United States,0500000US05005,05005,United States - Arkansas - Baxter County,Baxter County,41513,22580,586.71,32.43,554.28,74.9,40.7
@@ -166,7 +166,7 @@ Id,Id2,Geography,Target Geo Id,Target Geo Id2,Geographical Area1,Geographical Ar
 0100000US,,United States,0500000US05097,05097,United States - Arkansas - Montgomery County,Montgomery County,9487,5763,800.29,20.41,779.88,12.2,7.4
 0100000US,,United States,0500000US05099,05099,United States - Arkansas - Nevada County,Nevada County,8997,4563,620.64,2.80,617.84,14.6,7.4
 0100000US,,United States,0500000US05101,05101,United States - Arkansas - Newton County,Newton County,8330,4664,823.19,2.29,820.90,10.1,5.7
-0100000US,,United States,0500000US05103,05103,United States - Arkansas - Ouachita County,Ouachita County,26120(r39094),13121(r15861),739.75,6.97,732.78,35.6,17.9
+0100000US,,United States,0500000US05103,05103,United States - Arkansas - Ouachita County,Ouachita County,26120,13121,739.75,6.97,732.78,35.6,17.9
 0100000US,,United States,0500000US05105,05105,United States - Arkansas - Perry County,Perry County,10445,4907,560.53,9.13,551.40,18.9,8.9
 0100000US,,United States,0500000US05107,05107,United States - Arkansas - Phillips County,Phillips County,21757,10126,727.34,31.68,695.66,31.3,14.6
 0100000US,,United States,0500000US05109,05109,United States - Arkansas - Pike County,Pike County,11291,5580,614.13,13.51,600.62,18.8,9.3
@@ -252,7 +252,7 @@ Id,Id2,Geography,Target Geo Id,Target Geo Id2,Geographical Area1,Geographical Ar
 0100000US,,United States,0400000US08,08,United States - Colorado,Colorado,5029196,2212898,104093.67,451.78,103641.89,48.5,21.4
 0100000US,,United States,0500000US08001,08001,United States - Colorado - Adams County,Adams County,441603,163136,1183.90,16.24,1167.65,378.2,139.7
 0100000US,,United States,0500000US08003,08003,United States - Colorado - Alamosa County,Alamosa County,15445,6554,723.34,0.70,722.64,21.4,9.1
-0100000US,,United States,0500000US08005,08005,United States - Colorado - Arapahoe County,Arapahoe County,572003(r39380),238301(r16086),805.44,7.34,798.10,716.7,298.6
+0100000US,,United States,0500000US08005,08005,United States - Colorado - Arapahoe County,Arapahoe County,572003,238301,805.44,7.34,798.10,716.7,298.6
 0100000US,,United States,0500000US08007,08007,United States - Colorado - Archuleta County,Archuleta County,12084,8762,1355.51,5.34,1350.18,8.9,6.5
 0100000US,,United States,0500000US08009,08009,United States - Colorado - Baca County,Baca County,3788,2248,2557.34,2.37,2554.97,1.5,0.9
 0100000US,,United States,0500000US08011,08011,United States - Colorado - Bent County,Bent County,6499,2242,1541.08,28.22,1512.86,4.3,1.5
@@ -266,7 +266,7 @@ Id,Id2,Geography,Target Geo Id,Target Geo Id2,Geographical Area1,Geographical Ar
 0100000US,,United States,0500000US08025,08025,United States - Colorado - Crowley County,Crowley County,5823,1559,800.33,12.91,787.42,7.4,2.0
 0100000US,,United States,0500000US08027,08027,United States - Colorado - Custer County,Custer County,4255,3956,739.92,1.30,738.63,5.8,5.4
 0100000US,,United States,0500000US08029,08029,United States - Colorado - Delta County,Delta County,30952,14572,1148.60,6.55,1142.05,27.1,12.8
-0100000US,,United States,0500000US08031,08031,United States - Colorado - Denver County,Denver County,600158(r39385),285797(r16091),154.63,1.63,153.00,3922.6,1868.0
+0100000US,,United States,0500000US08031,08031,United States - Colorado - Denver County,Denver County,600158,285797,154.63,1.63,153.00,3922.6,1868.0
 0100000US,,United States,0500000US08033,08033,United States - Colorado - Dolores County,Dolores County,2064,1468,1068.10,1.05,1067.05,1.9,1.4
 0100000US,,United States,0500000US08035,08035,United States - Colorado - Douglas County,Douglas County,285465,106859,842.87,2.62,840.25,339.7,127.2
 0100000US,,United States,0500000US08037,08037,United States - Colorado - Eagle County,Eagle County,52197,31312,1691.79,7.26,1684.53,31.0,18.6
@@ -327,9 +327,9 @@ Id,Id2,Geography,Target Geo Id,Target Geo Id2,Geographical Area1,Geographical Ar
 0100000US,,United States,0500000US10001,10001,United States - Delaware - Kent County,Kent County,162310,65338,798.33,212.15,586.18,276.9,111.5
 0100000US,,United States,0500000US10003,10003,United States - Delaware - New Castle County,New Castle County,538479,217511,494.00,67.72,426.29,1263.2,510.2
 0100000US,,United States,0500000US10005,10005,United States - Delaware - Sussex County,Sussex County,197145,123036,1196.39,260.31,936.08,210.6,131.4
-0100000US,,United States,0400000US11,11,United States - District of Columbia,District of Columbia,601723(r39494),296719(r16187),68.34,7.29,61.05,9856.5,4860.4
-0100000US,,United States,0500000US11001,11001,United States - District of Columbia - District of Columbia,District of Columbia,601723(r39495),296719(r16188),68.34,7.29,61.05,9856.5,4860.4
-0100000US,,United States,0400000US12,12,United States - Florida,Florida,18801310(r40184),8989580(r16882),65757.70,12132.94,53624.76,350.6,167.6
+0100000US,,United States,0400000US11,11,United States - District of Columbia,District of Columbia,601723,296719,68.34,7.29,61.05,9856.5,4860.4
+0100000US,,United States,0500000US11001,11001,United States - District of Columbia - District of Columbia,District of Columbia,601723,296719,68.34,7.29,61.05,9856.5,4860.4
+0100000US,,United States,0400000US12,12,United States - Florida,Florida,18801310,8989580,65757.70,12132.94,53624.76,350.6,167.6
 0100000US,,United States,0500000US12001,12001,United States - Florida - Alachua County,Alachua County,247336,112766,968.81,93.79,875.02,282.7,128.9
 0100000US,,United States,0500000US12003,12003,United States - Florida - Baker County,Baker County,27115,9687,588.97,3.74,585.23,46.3,16.6
 0100000US,,United States,0500000US12005,12005,United States - Florida - Bay County,Bay County,168852,99650,1033.15,274.69,758.46,222.6,131.4
@@ -363,16 +363,16 @@ Id,Id2,Geography,Target Geo Id,Target Geo Id2,Geographical Area1,Geographical Ar
 0100000US,,United States,0500000US12063,12063,United States - Florida - Jackson County,Jackson County,49746,21003,954.56,36.80,917.76,54.2,22.9
 0100000US,,United States,0500000US12065,12065,United States - Florida - Jefferson County,Jefferson County,14761,6632,636.54,38.44,598.10,24.7,11.1
 0100000US,,United States,0500000US12067,12067,United States - Florida - Lafayette County,Lafayette County,8870,3328,547.91,4.50,543.41,16.3,6.1
-0100000US,,United States,0500000US12069,12069,United States - Florida - Lake County,Lake County,297052(r40336),144996,1156.96,218.58,938.38,316.6,154.5
+0100000US,,United States,0500000US12069,12069,United States - Florida - Lake County,Lake County,297052,144996,1156.96,218.58,938.38,316.6,154.5
 0100000US,,United States,0500000US12071,12071,United States - Florida - Lee County,Lee County,618754,371099,1212.46,427.95,784.51,788.7,473.0
 0100000US,,United States,0500000US12073,12073,United States - Florida - Leon County,Leon County,275487,124136,701.79,34.94,666.85,413.1,186.2
 0100000US,,United States,0500000US12075,12075,United States - Florida - Levy County,Levy County,40801,20123,1412.79,294.59,1118.21,36.5,18.0
 0100000US,,United States,0500000US12077,12077,United States - Florida - Liberty County,Liberty County,8365,3357,843.12,7.56,835.56,10.0,4.0
 0100000US,,United States,0500000US12079,12079,United States - Florida - Madison County,Madison County,19224,8481,715.68,19.74,695.95,27.6,12.2
 0100000US,,United States,0500000US12081,12081,United States - Florida - Manatee County,Manatee County,322833,172690,892.68,149.75,742.93,434.5,232.4
-0100000US,,United States,0500000US12083,12083,United States - Florida - Marion County,Marion County,331298(r40439),164050,1662.61,78.06,1584.55,209.1,103.5
+0100000US,,United States,0500000US12083,12083,United States - Florida - Marion County,Marion County,331298,164050,1662.61,78.06,1584.55,209.1,103.5
 0100000US,,United States,0500000US12085,12085,United States - Florida - Martin County,Martin County,146318,78131,752.83,209.36,543.46,269.2,143.8
-0100000US,,United States,0500000US12086,12086,United States - Florida - Miami-Dade County,Miami-Dade County,2496435(r40445),989435(r17101),2431.18,533.47,1897.72,1315.5,521.4
+0100000US,,United States,0500000US12086,12086,United States - Florida - Miami-Dade County,Miami-Dade County,2496435,989435,2431.18,533.47,1897.72,1315.5,521.4
 0100000US,,United States,0500000US12087,12087,United States - Florida - Monroe County,Monroe County,73090,52764,3737.52,2754.24,983.28,74.3,53.7
 0100000US,,United States,0500000US12089,12089,United States - Florida - Nassau County,Nassau County,73314,35009,725.92,77.28,648.64,113.0,54.0
 0100000US,,United States,0500000US12091,12091,United States - Florida - Okaloosa County,Okaloosa County,180822,92407,1082.08,151.83,930.25,194.4,99.3
@@ -397,7 +397,7 @@ Id,Id2,Geography,Target Geo Id,Target Geo Id2,Geographical Area1,Geographical Ar
 0100000US,,United States,0500000US12129,12129,United States - Florida - Wakulla County,Wakulla County,30776,12804,735.73,129.31,606.42,50.8,21.1
 0100000US,,United States,0500000US12131,12131,United States - Florida - Walton County,Walton County,55043,45132,1239.59,201.97,1037.62,53.0,43.5
 0100000US,,United States,0500000US12133,12133,United States - Florida - Washington County,Washington County,24896,10796,615.95,33.15,582.80,42.7,18.5
-0100000US,,United States,0400000US13,13,United States - Georgia,Georgia,9687653(r41102),4088801(r17732),59425.15,1911.67,57513.49,168.4,71.1
+0100000US,,United States,0400000US13,13,United States - Georgia,Georgia,9687653,4088801,59425.15,1911.67,57513.49,168.4,71.1
 0100000US,,United States,0500000US13001,13001,United States - Georgia - Appling County,Appling County,18236,8512,512.26,5.18,507.08,36.0,16.8
 0100000US,,United States,0500000US13003,13003,United States - Georgia - Atkinson County,Atkinson County,8375,3522,344.53,5.15,339.38,24.7,10.4
 0100000US,,United States,0500000US13005,13005,United States - Georgia - Bacon County,Bacon County,11096,4801,285.82,27.25,258.58,42.9,18.6
@@ -422,7 +422,7 @@ Id,Id2,Geography,Target Geo Id,Target Geo Id2,Geographical Area1,Geographical Ar
 0100000US,,United States,0500000US13045,13045,United States - Georgia - Carroll County,Carroll County,110527,44607,503.84,4.76,499.08,221.5,89.4
 0100000US,,United States,0500000US13047,13047,United States - Georgia - Catoosa County,Catoosa County,63942,26606,162.46,0.30,162.16,394.3,164.1
 0100000US,,United States,0500000US13049,13049,United States - Georgia - Charlton County,Charlton County,12171,4475,782.37,8.80,773.58,15.7,5.8
-0100000US,,United States,0500000US13051,13051,United States - Georgia - Chatham County,Chatham County,265128(r41131),119323(r17733),632.26,205.83,426.44,621.7,279.8
+0100000US,,United States,0500000US13051,13051,United States - Georgia - Chatham County,Chatham County,265128,119323,632.26,205.83,426.44,621.7,279.8
 0100000US,,United States,0500000US13053,13053,United States - Georgia - Chattahoochee County,Chattahoochee County,11267,3376,251.17,2.43,248.74,45.3,13.6
 0100000US,,United States,0500000US13055,13055,United States - Georgia - Chattooga County,Chattooga County,26015,10977,313.56,0.22,313.34,83.0,35.0
 0100000US,,United States,0500000US13057,13057,United States - Georgia - Cherokee County,Cherokee County,214346,82360,434.41,12.73,421.67,508.3,195.3
@@ -441,7 +441,7 @@ Id,Id2,Geography,Target Geo Id,Target Geo Id2,Geographical Area1,Geographical Ar
 0100000US,,United States,0500000US13083,13083,United States - Georgia - Dade County,Dade County,16633,7305,174.16,0.18,173.98,95.6,42.0
 0100000US,,United States,0500000US13085,13085,United States - Georgia - Dawson County,Dawson County,22330,10425,214.41,3.58,210.83,105.9,49.4
 0100000US,,United States,0500000US13087,13087,United States - Georgia - Decatur County,Decatur County,27842,12125,623.17,26.03,597.14,46.6,20.3
-0100000US,,United States,0500000US13089,13089,United States - Georgia - DeKalb County,DeKalb County,691893(r41183),304968(r17781),271.14,3.56,267.58,2585.7,1139.7
+0100000US,,United States,0500000US13089,13089,United States - Georgia - DeKalb County,DeKalb County,691893,304968,271.14,3.56,267.58,2585.7,1139.7
 0100000US,,United States,0500000US13091,13091,United States - Georgia - Dodge County,Dodge County,21796,9857,503.11,7.22,495.89,44.0,19.9
 0100000US,,United States,0500000US13093,13093,United States - Georgia - Dooly County,Dooly County,14918,6328,397.28,5.34,391.94,38.1,16.1
 0100000US,,United States,0500000US13095,13095,United States - Georgia - Dougherty County,Dougherty County,94565,40801,334.63,5.94,328.69,287.7,124.1
@@ -457,7 +457,7 @@ Id,Id2,Geography,Target Geo Id,Target Geo Id2,Geographical Area1,Geographical Ar
 0100000US,,United States,0500000US13115,13115,United States - Georgia - Floyd County,Floyd County,96317,40551,518.47,8.55,509.91,188.9,79.5
 0100000US,,United States,0500000US13117,13117,United States - Georgia - Forsyth County,Forsyth County,175511,64052,247.17,23.15,224.02,783.5,285.9
 0100000US,,United States,0500000US13119,13119,United States - Georgia - Franklin County,Franklin County,22084,10553,266.45,4.95,261.50,84.5,40.4
-0100000US,,United States,0500000US13121,13121,United States - Georgia - Fulton County,Fulton County,920581(r41350),437105(r17928),534.32,7.69,526.63,1748.0,830.0
+0100000US,,United States,0500000US13121,13121,United States - Georgia - Fulton County,Fulton County,920581,437105,534.32,7.69,526.63,1748.0,830.0
 0100000US,,United States,0500000US13123,13123,United States - Georgia - Gilmer County,Gilmer County,28292,16564,431.25,4.71,426.54,66.3,38.8
 0100000US,,United States,0500000US13125,13125,United States - Georgia - Glascock County,Glascock County,3082,1519,144.45,0.71,143.74,21.4,10.6
 0100000US,,United States,0500000US13127,13127,United States - Georgia - Glynn County,Glynn County,79626,40716,585.25,165.49,419.75,189.7,97.0
@@ -532,7 +532,7 @@ Id,Id2,Geography,Target Geo Id,Target Geo Id2,Geographical Area1,Geographical Ar
 0100000US,,United States,0500000US13267,13267,United States - Georgia - Tattnall County,Tattnall County,25520,9966,488.35,8.95,479.40,53.2,20.8
 0100000US,,United States,0500000US13269,13269,United States - Georgia - Taylor County,Taylor County,8906,4563,379.70,3.01,376.69,23.6,12.1
 0100000US,,United States,0500000US13271,13271,United States - Georgia - Telfair County,Telfair County,16500,7297,444.01,6.71,437.30,37.7,16.7
-0100000US,,United States,0500000US13273,13273,United States - Georgia - Terrell County,Terrell County,9315(r41444),4080(r17967),337.70,2.26,335.44,27.8,12.2
+0100000US,,United States,0500000US13273,13273,United States - Georgia - Terrell County,Terrell County,9315,4080,337.70,2.26,335.44,27.8,12.2
 0100000US,,United States,0500000US13275,13275,United States - Georgia - Thomas County,Thomas County,44720,20177,552.22,7.62,544.60,82.1,37.0
 0100000US,,United States,0500000US13277,13277,United States - Georgia - Tift County,Tift County,40118,16434,268.79,9.87,258.91,154.9,63.5
 0100000US,,United States,0500000US13279,13279,United States - Georgia - Toombs County,Toombs County,27223,12144,370.99,6.99,364.00,74.8,33.4
@@ -563,7 +563,7 @@ Id,Id2,Geography,Target Geo Id,Target Geo Id2,Geographical Area1,Geographical Ar
 0100000US,,United States,0500000US15005,15005,United States - Hawaii - Kalawao County,Kalawao County,90,113,52.83,40.84,11.99,7.5,9.4
 0100000US,,United States,0500000US15007,15007,United States - Hawaii - Kauai County,Kauai County,67091,29793,1266.36,646.40,619.96,108.2,48.1
 0100000US,,United States,0500000US15009,15009,United States - Hawaii - Maui County,Maui County,154834,70379,2398.33,1236.81,1161.52,133.3,60.6
-0100000US,,United States,0400000US16,16,United States - Idaho,Idaho,1567582(r41542),667796,83568.95,925.83,82643.12,19.0,8.1
+0100000US,,United States,0400000US16,16,United States - Idaho,Idaho,1567582,667796,83568.95,925.83,82643.12,19.0,8.1
 0100000US,,United States,0500000US16001,16001,United States - Idaho - Ada County,Ada County,392365,159471,1060.46,7.89,1052.58,372.8,151.5
 0100000US,,United States,0500000US16003,16003,United States - Idaho - Adams County,Adams County,3976,2636,1369.77,6.72,1363.06,2.9,1.9
 0100000US,,United States,0500000US16005,16005,United States - Idaho - Bannock County,Bannock County,82839,33191,1147.43,35.44,1111.99,74.5,29.8
@@ -573,7 +573,7 @@ Id,Id2,Geography,Target Geo Id,Target Geo Id2,Geographical Area1,Geographical Ar
 0100000US,,United States,0500000US16013,16013,United States - Idaho - Blaine County,Blaine County,21376,15050,2660.71,17.12,2643.59,8.1,5.7
 0100000US,,United States,0500000US16015,16015,United States - Idaho - Boise County,Boise County,7028,5292,1906.69,7.45,1899.24,3.7,2.8
 0100000US,,United States,0500000US16017,16017,United States - Idaho - Bonner County,Bonner County,40877,24669,1919.50,184.93,1734.57,23.6,14.2
-0100000US,,United States,0500000US16019,16019,United States - Idaho - Bonneville County,Bonneville County,104234(r41543),39731,1900.64,34.56,1866.08,55.9,21.3
+0100000US,,United States,0500000US16019,16019,United States - Idaho - Bonneville County,Bonneville County,104234,39731,1900.64,34.56,1866.08,55.9,21.3
 0100000US,,United States,0500000US16021,16021,United States - Idaho - Boundary County,Boundary County,10972,5175,1277.86,9.30,1268.56,8.6,4.1
 0100000US,,United States,0500000US16023,16023,United States - Idaho - Butte County,Butte County,2891,1354,2233.70,2.03,2231.67,1.3,0.6
 0100000US,,United States,0500000US16025,16025,United States - Idaho - Camas County,Camas County,1117,831,1078.95,4.45,1074.49,1.0,0.8
@@ -713,7 +713,7 @@ Id,Id2,Geography,Target Geo Id,Target Geo Id2,Geographical Area1,Geographical Ar
 0100000US,,United States,0500000US17203,17203,United States - Illinois - Woodford County,Woodford County,38664,15145,542.64,14.84,527.80,73.3,28.7
 0100000US,,United States,0400000US18,18,United States - Indiana,Indiana,6483802,2795541,36419.55,593.44,35826.11,181.0,78.0
 0100000US,,United States,0500000US18001,18001,United States - Indiana - Adams County,Adams County,34387,13014,339.97,0.94,339.03,101.4,38.4
-0100000US,,United States,0500000US18003,18003,United States - Indiana - Allen County,Allen County,355329(r41911),152184,660.02,2.71,657.31,540.6,231.5
+0100000US,,United States,0500000US18003,18003,United States - Indiana - Allen County,Allen County,355329,152184,660.02,2.71,657.31,540.6,231.5
 0100000US,,United States,0500000US18005,18005,United States - Indiana - Bartholomew County,Bartholomew County,76794,33098,409.52,2.62,406.91,188.7,81.3
 0100000US,,United States,0500000US18007,18007,United States - Indiana - Benton County,Benton County,8854,3937,406.51,0.09,406.42,21.8,9.7
 0100000US,,United States,0500000US18009,18009,United States - Indiana - Blackford County,Blackford County,12766,6051,165.58,0.50,165.08,77.3,36.7
@@ -738,7 +738,7 @@ Id,Id2,Geography,Target Geo Id,Target Geo Id2,Geographical Area1,Geographical Ar
 0100000US,,United States,0500000US18047,18047,United States - Indiana - Franklin County,Franklin County,23087,9538,391.05,6.62,384.43,60.1,24.8
 0100000US,,United States,0500000US18049,18049,United States - Indiana - Fulton County,Fulton County,20836,9708,371.27,2.88,368.39,56.6,26.4
 0100000US,,United States,0500000US18051,18051,United States - Indiana - Gibson County,Gibson County,33503,14645,499.16,11.68,487.49,68.7,30.0
-0100000US,,United States,0500000US18053,18053,United States - Indiana - Grant County,Grant County,70061(r41931),30443,414.90,0.82,414.07,169.2,73.5
+0100000US,,United States,0500000US18053,18053,United States - Indiana - Grant County,Grant County,70061,30443,414.90,0.82,414.07,169.2,73.5
 0100000US,,United States,0500000US18055,18055,United States - Indiana - Greene County,Greene County,33165,15211,545.92,3.42,542.49,61.1,28.0
 0100000US,,United States,0500000US18057,18057,United States - Indiana - Hamilton County,Hamilton County,274569,106772,402.44,8.17,394.27,696.4,270.8
 0100000US,,United States,0500000US18059,18059,United States - Indiana - Hancock County,Hancock County,70002,28125,307.03,1.01,306.02,228.8,91.9
@@ -1213,10 +1213,10 @@ Id,Id2,Geography,Target Geo Id,Target Geo Id2,Geographical Area1,Geographical Ar
 0100000US,,United States,0500000US23027,23027,United States - Maine - Waldo County,Waldo County,38786,21566,852.76,122.84,729.92,53.1,29.5
 0100000US,,United States,0500000US23029,23029,United States - Maine - Washington County,Washington County,32856,23001,3257.65,694.99,2562.66,12.8,9.0
 0100000US,,United States,0500000US23031,23031,United States - Maine - York County,York County,197131,105773,1269.71,279.00,990.71,199.0,106.8
-0100000US,,United States,0400000US24,24,United States - Maryland,Maryland,5773552(r42264),2378814(r18611),12405.93,2698.69,9707.24,594.8,245.1
+0100000US,,United States,0400000US24,24,United States - Maryland,Maryland,5773552,2378814,12405.93,2698.69,9707.24,594.8,245.1
 0100000US,,United States,0500000US24001,24001,United States - Maryland - Allegany County,Allegany County,75087,33311,429.93,5.77,424.16,177.0,78.5
 0100000US,,United States,0500000US24003,24003,United States - Maryland - Anne Arundel County,Anne Arundel County,537656,212562,587.80,172.90,414.90,1295.9,512.3
-0100000US,,United States,0500000US24005,24005,United States - Maryland - Baltimore County,Baltimore County,805029(r42279),335622(r18612),681.76,83.45,598.30,1345.5,561.0
+0100000US,,United States,0500000US24005,24005,United States - Maryland - Baltimore County,Baltimore County,805029,335622,681.76,83.45,598.30,1345.5,561.0
 0100000US,,United States,0500000US24009,24009,United States - Maryland - Calvert County,Calvert County,88737,33780,345.07,131.92,213.15,416.3,158.5
 0100000US,,United States,0500000US24011,24011,United States - Maryland - Caroline County,Caroline County,33066,13482,325.90,6.48,319.42,103.5,42.2
 0100000US,,United States,0500000US24013,24013,United States - Maryland - Carroll County,Carroll County,167134,62406,452.69,5.09,447.59,373.4,139.4
@@ -1237,7 +1237,7 @@ Id,Id2,Geography,Target Geo Id,Target Geo Id2,Geographical Area1,Geographical Ar
 0100000US,,United States,0500000US24043,24043,United States - Maryland - Washington County,Washington County,147430,60814,467.34,9.56,457.78,322.1,132.8
 0100000US,,United States,0500000US24045,24045,United States - Maryland - Wicomico County,Wicomico County,98733,41192,400.24,25.79,374.44,263.7,110.0
 0100000US,,United States,0500000US24047,24047,United States - Maryland - Worcester County,Worcester County,51454,55749,694.86,226.58,468.28,109.9,119.1
-0100000US,,United States,0500000US24510,24510,United States - Maryland - Baltimore city,Baltimore city,620961(r42352),296685(r18689),92.05,11.11,80.94,7671.5,3665.3
+0100000US,,United States,0500000US24510,24510,United States - Maryland - Baltimore city,Baltimore city,620961,296685,92.05,11.11,80.94,7671.5,3665.3
 0100000US,,United States,0400000US25,25,United States - Massachusetts,Massachusetts,6547629,2808254,10554.39,2754.33,7800.06,839.4,360.0
 0100000US,,United States,0500000US25001,25001,United States - Massachusetts - Barnstable County,Barnstable County,215888,160281,1305.54,911.81,393.72,548.3,407.1
 0100000US,,United States,0500000US25003,25003,United States - Massachusetts - Berkshire County,Berkshire County,131219,68508,946.43,19.60,926.82,141.6,73.9
@@ -1249,11 +1249,11 @@ Id,Id2,Geography,Target Geo Id,Target Geo Id2,Geographical Area1,Geographical Ar
 0100000US,,United States,0500000US25015,25015,United States - Massachusetts - Hampshire County,Hampshire County,158080,62603,545.21,17.95,527.26,299.8,118.7
 0100000US,,United States,0500000US25017,25017,United States - Massachusetts - Middlesex County,Middlesex County,1503085,612004,847.06,29.24,817.82,1837.9,748.3
 0100000US,,United States,0500000US25019,25019,United States - Massachusetts - Nantucket County,Nantucket County,10172,11618,303.66,258.69,44.97,226.2,258.4
-0100000US,,United States,0500000US25021,25021,United States - Massachusetts - Norfolk County,Norfolk County,670850(r45073),270359,444.35,48.24,396.11,1693.6,682.5
+0100000US,,United States,0500000US25021,25021,United States - Massachusetts - Norfolk County,Norfolk County,670850,270359,444.35,48.24,396.11,1693.6,682.5
 0100000US,,United States,0500000US25023,25023,United States - Massachusetts - Plymouth County,Plymouth County,494919,200161,1093.25,434.18,659.08,750.9,303.7
-0100000US,,United States,0500000US25025,25025,United States - Massachusetts - Suffolk County,Suffolk County,722023(r45082),315522,120.22,62.07,58.15,12415.6,5425.6
+0100000US,,United States,0500000US25025,25025,United States - Massachusetts - Suffolk County,Suffolk County,722023,315522,120.22,62.07,58.15,12415.6,5425.6
 0100000US,,United States,0500000US25027,25027,United States - Massachusetts - Worcester County,Worcester County,798552,326788,1579.19,68.42,1510.77,528.6,216.3
-0100000US,,United States,0400000US26,26,United States - Michigan,Michigan,9883640(r45127),4532233(r21600),96713.51,40174.61,56538.90,174.8,80.2
+0100000US,,United States,0400000US26,26,United States - Michigan,Michigan,9883640,4532233,96713.51,40174.61,56538.90,174.8,80.2
 0100000US,,United States,0500000US26001,26001,United States - Michigan - Alcona County,Alcona County,10942,11073,1790.58,1116.00,674.59,16.2,16.4
 0100000US,,United States,0500000US26003,26003,United States - Michigan - Alger County,Alger County,9601,6554,5047.74,4132.67,915.07,10.5,7.2
 0100000US,,United States,0500000US26005,26005,United States - Michigan - Allegan County,Allegan County,111408,49426,1833.29,1008.06,825.23,135.0,59.9
@@ -1335,7 +1335,7 @@ Id,Id2,Geography,Target Geo Id,Target Geo Id2,Geographical Area1,Geographical Ar
 0100000US,,United States,0500000US26157,26157,United States - Michigan - Tuscola County,Tuscola County,55729,24451,913.91,110.78,803.13,69.4,30.4
 0100000US,,United States,0500000US26159,26159,United States - Michigan - Van Buren County,Van Buren County,76258,36785,1089.90,482.42,607.47,125.5,60.6
 0100000US,,United States,0500000US26161,26161,United States - Michigan - Washtenaw County,Washtenaw County,344791,147573,722.42,16.45,705.97,488.4,209.0
-0100000US,,United States,0500000US26163,26163,United States - Michigan - Wayne County,Wayne County,1820584(r45185),821693(r21655),672.68,60.60,612.08,2974.4,1342.5
+0100000US,,United States,0500000US26163,26163,United States - Michigan - Wayne County,Wayne County,1820584,821693,672.68,60.60,612.08,2974.4,1342.5
 0100000US,,United States,0500000US26165,26165,United States - Michigan - Wexford County,Wexford County,32735,16736,575.47,10.46,565.00,57.9,29.6
 0100000US,,United States,0400000US27,27,United States - Minnesota,Minnesota,5303925,2347201,86935.83,7309.09,79626.74,66.6,29.5
 0100000US,,United States,0500000US27001,27001,United States - Minnesota - Aitkin County,Aitkin County,16202,16029,1995.29,173.63,1821.66,8.9,8.8
@@ -1804,18 +1804,18 @@ Id,Id2,Geography,Target Geo Id,Target Geo Id2,Geographical Area1,Geographical Ar
 0100000US,,United States,0500000US33015,33015,United States - New Hampshire - Rockingham County,Rockingham County,295223,126709,795.11,100.39,694.72,425.0,182.4
 0100000US,,United States,0500000US33017,33017,United States - New Hampshire - Strafford County,Strafford County,123143,51697,384.00,15.03,368.97,333.7,140.1
 0100000US,,United States,0500000US33019,33019,United States - New Hampshire - Sullivan County,Sullivan County,43742,22341,551.99,14.68,537.31,81.4,41.6
-0100000US,,United States,0400000US34,34,United States - New Jersey,New Jersey,8791894(r46246),3553562(r22677),8722.58,1368.36,7354.22,1195.5,483.2
+0100000US,,United States,0400000US34,34,United States - New Jersey,New Jersey,8791894,3553562,8722.58,1368.36,7354.22,1195.5,483.2
 0100000US,,United States,0500000US34001,34001,United States - New Jersey - Atlantic County,Atlantic County,274549,126647,671.83,116.12,555.70,494.1,227.9
 0100000US,,United States,0500000US34003,34003,United States - New Jersey - Bergen County,Bergen County,905116,352388,246.67,13.66,233.01,3884.5,1512.3
-0100000US,,United States,0500000US34005,34005,United States - New Jersey - Burlington County,Burlington County,448734(r46247),175615(r22678),819.84,21.26,798.58,561.9,219.9
-0100000US,,United States,0500000US34007,34007,United States - New Jersey - Camden County,Camden County,513657(r46259),204943(r22684),227.29,6.03,221.26,2321.5,926.2
+0100000US,,United States,0500000US34005,34005,United States - New Jersey - Burlington County,Burlington County,448734,175615,819.84,21.26,798.58,561.9,219.9
+0100000US,,United States,0500000US34007,34007,United States - New Jersey - Camden County,Camden County,513657,204943,227.29,6.03,221.26,2321.5,926.2
 0100000US,,United States,0500000US34009,34009,United States - New Jersey - Cape May County,Cape May County,97265,98309,620.42,368.99,251.42,386.9,391.0
 0100000US,,United States,0500000US34011,34011,United States - New Jersey - Cumberland County,Cumberland County,156898,55834,677.62,193.92,483.70,324.4,115.4
 0100000US,,United States,0500000US34013,34013,United States - New Jersey - Essex County,Essex County,783969,312954,129.63,3.42,126.21,6211.5,2479.6
 0100000US,,United States,0500000US34015,34015,United States - New Jersey - Gloucester County,Gloucester County,288288,109796,337.18,15.17,322.01,895.3,341.0
-0100000US,,United States,0500000US34017,34017,United States - New Jersey - Hudson County,Hudson County,634266(r46393),270335(r22800),62.31,16.12,46.19,13731.4,5852.5
-0100000US,,United States,0500000US34019,34019,United States - New Jersey - Hunterdon County,Hunterdon County,128349(r46697),49487,437.44,9.62,427.82,300.0,115.7
-0100000US,,United States,0500000US34021,34021,United States - New Jersey - Mercer County,Mercer County,366513(r46718),143169,228.89,4.33,224.56,1632.2,637.6
+0100000US,,United States,0500000US34017,34017,United States - New Jersey - Hudson County,Hudson County,634266,270335,62.31,16.12,46.19,13731.4,5852.5
+0100000US,,United States,0500000US34019,34019,United States - New Jersey - Hunterdon County,Hunterdon County,128349,49487,437.44,9.62,427.82,300.0,115.7
+0100000US,,United States,0500000US34021,34021,United States - New Jersey - Mercer County,Mercer County,366513,143169,228.89,4.33,224.56,1632.2,637.6
 0100000US,,United States,0500000US34023,34023,United States - New Jersey - Middlesex County,Middlesex County,809858,294800,322.83,13.91,308.91,2621.6,954.3
 0100000US,,United States,0500000US34025,34025,United States - New Jersey - Monmouth County,Monmouth County,630380,258410,665.32,196.53,468.79,1344.7,551.2
 0100000US,,United States,0500000US34027,34027,United States - New Jersey - Morris County,Morris County,492276,189842,481.62,21.45,460.18,1069.8,412.5
@@ -1826,7 +1826,7 @@ Id,Id2,Geography,Target Geo Id,Target Geo Id2,Geographical Area1,Geographical Ar
 0100000US,,United States,0500000US34037,34037,United States - New Jersey - Sussex County,Sussex County,149265,62057,535.74,16.73,519.01,287.6,119.6
 0100000US,,United States,0500000US34039,34039,United States - New Jersey - Union County,Union County,536499,199489,105.40,2.55,102.85,5216.1,1939.5
 0100000US,,United States,0500000US34041,34041,United States - New Jersey - Warren County,Warren County,108692,44925,362.86,5.94,356.92,304.5,125.9
-0100000US,,United States,0400000US35,35,United States - New Mexico,New Mexico,2059179(r46748),901388(r23120),121590.30,292.15,121298.15,17.0,7.4
+0100000US,,United States,0400000US35,35,United States - New Mexico,New Mexico,2059179,901388,121590.30,292.15,121298.15,17.0,7.4
 0100000US,,United States,0500000US35001,35001,United States - New Mexico - Bernalillo County,Bernalillo County,662564,284234,1167.19,6.36,1160.83,570.8,244.9
 0100000US,,United States,0500000US35003,35003,United States - New Mexico - Catron County,Catron County,3725,3289,6929.17,5.48,6923.69,0.5,0.5
 0100000US,,United States,0500000US35005,35005,United States - New Mexico - Chaves County,Chaves County,65645,26697,6075.12,9.85,6065.27,10.8,4.4
@@ -1846,7 +1846,7 @@ Id,Id2,Geography,Target Geo Id,Target Geo Id2,Geographical Area1,Geographical Ar
 0100000US,,United States,0500000US35029,35029,United States - New Mexico - Luna County,Luna County,25095,10999,2965.36,0.17,2965.19,8.5,3.7
 0100000US,,United States,0500000US35031,35031,United States - New Mexico - McKinley County,McKinley County,71492,25813,5455.28,5.47,5449.81,13.1,4.7
 0100000US,,United States,0500000US35033,35033,United States - New Mexico - Mora County,Mora County,4881,3232,1933.62,2.35,1931.27,2.5,1.7
-0100000US,,United States,0500000US35035,35035,United States - New Mexico - Otero County,Otero County,63797(r46881),30992(r23248),6627.50,14.29,6613.21,9.6,4.7
+0100000US,,United States,0500000US35035,35035,United States - New Mexico - Otero County,Otero County,63797,30992,6627.50,14.29,6613.21,9.6,4.7
 0100000US,,United States,0500000US35037,35037,United States - New Mexico - Quay County,Quay County,9041,5569,2881.58,7.23,2874.35,3.1,1.9
 0100000US,,United States,0500000US35039,35039,United States - New Mexico - Rio Arriba County,Rio Arriba County,40246,19638,5896.15,35.31,5860.84,6.9,3.4
 0100000US,,United States,0500000US35041,35041,United States - New Mexico - Roosevelt County,Roosevelt County,19846,8163,2454.65,7.22,2447.43,8.1,3.3
@@ -1955,14 +1955,14 @@ Id,Id2,Geography,Target Geo Id,Target Geo Id2,Geographical Area1,Geographical Ar
 0100000US,,United States,0500000US37057,37057,United States - North Carolina - Davidson County,Davidson County,162878,72655,567.02,14.34,552.67,294.7,131.5
 0100000US,,United States,0500000US37059,37059,United States - North Carolina - Davie County,Davie County,41240,18238,267.09,2.98,264.11,156.1,69.1
 0100000US,,United States,0500000US37061,37061,United States - North Carolina - Duplin County,Duplin County,58505,25728,821.67,5.45,816.22,71.7,31.5
-0100000US,,United States,0500000US37063,37063,United States - North Carolina - Durham County,Durham County,267587(r47107),120217,297.87,11.89,285.98,935.7,420.4
+0100000US,,United States,0500000US37063,37063,United States - North Carolina - Durham County,Durham County,267587,120217,297.87,11.89,285.98,935.7,420.4
 0100000US,,United States,0500000US37065,37065,United States - North Carolina - Edgecombe County,Edgecombe County,56552,24838,506.65,1.31,505.34,111.9,49.2
 0100000US,,United States,0500000US37067,37067,United States - North Carolina - Forsyth County,Forsyth County,350670,156872,412.70,4.55,408.15,859.2,384.4
 0100000US,,United States,0500000US37069,37069,United States - North Carolina - Franklin County,Franklin County,60619,26577,494.50,2.82,491.68,123.3,54.1
 0100000US,,United States,0500000US37071,37071,United States - North Carolina - Gaston County,Gaston County,206086,88686,364.10,8.07,356.03,578.8,249.1
 0100000US,,United States,0500000US37073,37073,United States - North Carolina - Gates County,Gates County,12197,5208,345.69,5.24,340.44,35.8,15.3
 0100000US,,United States,0500000US37075,37075,United States - North Carolina - Graham County,Graham County,8861,5930,301.67,9.59,292.08,30.3,20.3
-0100000US,,United States,0500000US37077,37077,United States - North Carolina - Granville County,Granville County,59916(r47120),22827,536.50,4.93,531.57,112.7,42.9
+0100000US,,United States,0500000US37077,37077,United States - North Carolina - Granville County,Granville County,59916,22827,536.50,4.93,531.57,112.7,42.9
 0100000US,,United States,0500000US37079,37079,United States - North Carolina - Greene County,Greene County,21362,8213,266.40,0.47,265.93,80.3,30.9
 0100000US,,United States,0500000US37081,37081,United States - North Carolina - Guilford County,Guilford County,488406,218017,657.63,11.92,645.70,756.4,337.6
 0100000US,,United States,0500000US37083,37083,United States - North Carolina - Halifax County,Halifax County,54691,25781,731.18,7.09,724.09,75.5,35.6
@@ -2078,7 +2078,7 @@ Id,Id2,Geography,Target Geo Id,Target Geo Id2,Geographical Area1,Geographical Ar
 0100000US,,United States,0500000US38101,38101,United States - North Dakota - Ward County,Ward County,61675,26744,2055.96,42.68,2013.28,30.6,13.3
 0100000US,,United States,0500000US38103,38103,United States - North Dakota - Wells County,Wells County,4207,2481,1290.37,19.33,1271.05,3.3,2.0
 0100000US,,United States,0500000US38105,38105,United States - North Dakota - Williams County,Williams County,22398,10464,2147.87,70.47,2077.40,10.8,5.0
-0100000US,,United States,0400000US39,39,United States - Ohio,Ohio,11536504,5127508(r23694),44825.58,3964.89,40860.69,282.3,125.5
+0100000US,,United States,0400000US39,39,United States - Ohio,Ohio,11536504,5127508,44825.58,3964.89,40860.69,282.3,125.5
 0100000US,,United States,0500000US39001,39001,United States - Ohio - Adams County,Adams County,28550,12978,586.25,2.38,583.87,48.9,22.2
 0100000US,,United States,0500000US39003,39003,United States - Ohio - Allen County,Allen County,106331,44999,406.85,4.35,402.50,264.2,111.8
 0100000US,,United States,0500000US39005,39005,United States - Ohio - Ashland County,Ashland County,53139,22141,426.80,3.85,422.95,125.6,52.3
@@ -2096,7 +2096,7 @@ Id,Id2,Geography,Target Geo Id,Target Geo Id2,Geographical Area1,Geographical Ar
 0100000US,,United States,0500000US39029,39029,United States - Ohio - Columbiana County,Columbiana County,107841,47088,534.69,2.80,531.89,202.7,88.5
 0100000US,,United States,0500000US39031,39031,United States - Ohio - Coshocton County,Coshocton County,36901,16545,567.48,3.57,563.91,65.4,29.3
 0100000US,,United States,0500000US39033,39033,United States - Ohio - Crawford County,Crawford County,43784,20167,402.70,0.91,401.79,109.0,50.2
-0100000US,,United States,0500000US39035,39035,United States - Ohio - Cuyahoga County,Cuyahoga County,1280122(r47421),621763(r23695),1245.59,788.40,457.19,2800.0,1360.0
+0100000US,,United States,0500000US39035,39035,United States - Ohio - Cuyahoga County,Cuyahoga County,1280122,621763,1245.59,788.40,457.19,2800.0,1360.0
 0100000US,,United States,0500000US39037,39037,United States - Ohio - Darke County,Darke County,52959,22730,599.76,1.66,598.10,88.5,38.0
 0100000US,,United States,0500000US39039,39039,United States - Ohio - Defiance County,Defiance County,39037,16729,414.19,2.73,411.46,94.9,40.7
 0100000US,,United States,0500000US39041,39041,United States - Ohio - Delaware County,Delaware County,174214,66378,457.33,14.23,443.10,393.2,149.8
@@ -2106,7 +2106,7 @@ Id,Id2,Geography,Target Geo Id,Target Geo Id2,Geographical Area1,Geographical Ar
 0100000US,,United States,0500000US39049,39049,United States - Ohio - Franklin County,Franklin County,1163414,527186,543.51,11.32,532.19,2186.1,990.6
 0100000US,,United States,0500000US39051,39051,United States - Ohio - Fulton County,Fulton County,42698,17407,407.23,1.78,405.44,105.3,42.9
 0100000US,,United States,0500000US39053,39053,United States - Ohio - Gallia County,Gallia County,30934,13925,471.20,4.67,466.53,66.3,29.8
-0100000US,,United States,0500000US39055,39055,United States - Ohio - Geauga County,Geauga County,93389(r47449),36574(r23703),408.29,8.13,400.16,233.4,91.4
+0100000US,,United States,0500000US39055,39055,United States - Ohio - Geauga County,Geauga County,93389,36574,408.29,8.13,400.16,233.4,91.4
 0100000US,,United States,0500000US39057,39057,United States - Ohio - Greene County,Greene County,161573,68241,416.26,2.53,413.73,390.5,164.9
 0100000US,,United States,0500000US39059,39059,United States - Ohio - Guernsey County,Guernsey County,40087,19193,528.30,6.05,522.25,76.8,36.8
 0100000US,,United States,0500000US39061,39061,United States - Ohio - Hamilton County,Hamilton County,802374,377364,412.63,6.72,405.91,1976.7,929.7
@@ -2121,7 +2121,7 @@ Id,Id2,Geography,Target Geo Id,Target Geo Id2,Geographical Area1,Geographical Ar
 0100000US,,United States,0500000US39079,39079,United States - Ohio - Jackson County,Jackson County,33225,14587,421.53,1.23,420.30,79.0,34.7
 0100000US,,United States,0500000US39081,39081,United States - Ohio - Jefferson County,Jefferson County,69709,32826,410.95,2.62,408.33,170.7,80.4
 0100000US,,United States,0500000US39083,39083,United States - Ohio - Knox County,Knox County,60921,25118,529.63,4.14,525.49,115.9,47.8
-0100000US,,United States,0500000US39085,39085,United States - Ohio - Lake County,Lake County,230041(r47726),101202(r23972),979.20,751.70,227.49,1011.2,444.9
+0100000US,,United States,0500000US39085,39085,United States - Ohio - Lake County,Lake County,230041,101202,979.20,751.70,227.49,1011.2,444.9
 0100000US,,United States,0500000US39087,39087,United States - Ohio - Lawrence County,Lawrence County,62450,27603,457.27,3.90,453.37,137.7,60.9
 0100000US,,United States,0500000US39089,39089,United States - Ohio - Licking County,Licking County,166492,69291,687.49,4.99,682.50,243.9,101.5
 0100000US,,United States,0500000US39091,39091,United States - Ohio - Logan County,Logan County,45858,23181,466.77,8.34,458.43,100.0,50.6
@@ -2156,7 +2156,7 @@ Id,Id2,Geography,Target Geo Id,Target Geo Id2,Geographical Area1,Geographical Ar
 0100000US,,United States,0500000US39149,39149,United States - Ohio - Shelby County,Shelby County,49423,20173,410.69,3.02,407.68,121.2,49.5
 0100000US,,United States,0500000US39151,39151,United States - Ohio - Stark County,Stark County,375586,165215,580.53,5.26,575.27,652.9,287.2
 0100000US,,United States,0500000US39153,39153,United States - Ohio - Summit County,Summit County,541781,245109,420.06,7.31,412.75,1312.6,593.8
-0100000US,,United States,0500000US39155,39155,United States - Ohio - Trumbull County,Trumbull County,210312(r47792),96163(r24023),636.57,18.27,618.30,340.1,155.5
+0100000US,,United States,0500000US39155,39155,United States - Ohio - Trumbull County,Trumbull County,210312,96163,636.57,18.27,618.30,340.1,155.5
 0100000US,,United States,0500000US39157,39157,United States - Ohio - Tuscarawas County,Tuscarawas County,92582,40206,571.45,3.82,567.64,163.1,70.8
 0100000US,,United States,0500000US39159,39159,United States - Ohio - Union County,Union County,52300,19429,436.87,5.14,431.73,121.1,45.0
 0100000US,,United States,0500000US39161,39161,United States - Ohio - Van Wert County,Van Wert County,28744,12615,410.43,1.27,409.16,70.3,30.8
@@ -2297,15 +2297,15 @@ Id,Id2,Geography,Target Geo Id,Target Geo Id2,Geographical Area1,Geographical Ar
 0100000US,,United States,0500000US42023,42023,United States - Pennsylvania - Cameron County,Cameron County,5085,4455,398.42,2.19,396.23,12.8,11.2
 0100000US,,United States,0500000US42025,42025,United States - Pennsylvania - Carbon County,Carbon County,65249,34299,387.39,5.93,381.46,171.1,89.9
 0100000US,,United States,0500000US42027,42027,United States - Pennsylvania - Centre County,Centre County,153990,63297,1112.96,3.04,1109.92,138.7,57.0
-0100000US,,United States,0500000US42029,42029,United States - Pennsylvania - Chester County,Chester County,498886(r47867),192462,759.23,8.73,750.51,664.7,256.4
+0100000US,,United States,0500000US42029,42029,United States - Pennsylvania - Chester County,Chester County,498886,192462,759.23,8.73,750.51,664.7,256.4
 0100000US,,United States,0500000US42031,42031,United States - Pennsylvania - Clarion County,Clarion County,39988,19962,609.84,9.01,600.83,66.6,33.2
-0100000US,,United States,0500000US42033,42033,United States - Pennsylvania - Clearfield County,Clearfield County,81642(r47879),38644(r24064),1153.96,9.24,1144.72,71.3,33.8
+0100000US,,United States,0500000US42033,42033,United States - Pennsylvania - Clearfield County,Clearfield County,81642,38644,1153.96,9.24,1144.72,71.3,33.8
 0100000US,,United States,0500000US42035,42035,United States - Pennsylvania - Clinton County,Clinton County,39238,19080,896.93,8.95,887.98,44.2,21.5
 0100000US,,United States,0500000US42037,42037,United States - Pennsylvania - Columbia County,Columbia County,67295,29498,490.16,7.05,483.11,139.3,61.1
 0100000US,,United States,0500000US42039,42039,United States - Pennsylvania - Crawford County,Crawford County,88765,44686,1037.51,25.22,1012.30,87.7,44.1
 0100000US,,United States,0500000US42041,42041,United States - Pennsylvania - Cumberland County,Cumberland County,235406,99988,550.30,4.84,545.46,431.6,183.3
 0100000US,,United States,0500000US42043,42043,United States - Pennsylvania - Dauphin County,Dauphin County,268100,120406,558.18,33.13,525.05,510.6,229.3
-0100000US,,United States,0500000US42045,42045,United States - Pennsylvania - Delaware County,Delaware County,558979(r47897),222902(r24072),190.60,6.76,183.84,3040.5,1212.5
+0100000US,,United States,0500000US42045,42045,United States - Pennsylvania - Delaware County,Delaware County,558979,222902,190.60,6.76,183.84,3040.5,1212.5
 0100000US,,United States,0500000US42047,42047,United States - Pennsylvania - Elk County,Elk County,31946,17585,832.31,4.95,827.36,38.6,21.3
 0100000US,,United States,0500000US42049,42049,United States - Pennsylvania - Erie County,Erie County,280566,119138,1558.23,759.08,799.15,351.1,149.1
 0100000US,,United States,0500000US42051,42051,United States - Pennsylvania - Fayette County,Fayette County,136606,62773,798.31,7.97,790.34,172.8,79.4
@@ -2315,7 +2315,7 @@ Id,Id2,Geography,Target Geo Id,Target Geo Id2,Geographical Area1,Geographical Ar
 0100000US,,United States,0500000US42059,42059,United States - Pennsylvania - Greene County,Greene County,38686,16460,577.98,2.03,575.95,67.2,28.6
 0100000US,,United States,0500000US42061,42061,United States - Pennsylvania - Huntingdon County,Huntingdon County,45913,22365,889.27,14.63,874.64,52.5,25.6
 0100000US,,United States,0500000US42063,42063,United States - Pennsylvania - Indiana County,Indiana County,88880,38236,834.29,7.26,827.03,107.5,46.2
-0100000US,,United States,0500000US42065,42065,United States - Pennsylvania - Jefferson County,Jefferson County,45200(r47934),22434(r24081),656.80,4.37,652.43,69.3,34.4
+0100000US,,United States,0500000US42065,42065,United States - Pennsylvania - Jefferson County,Jefferson County,45200,22434,656.80,4.37,652.43,69.3,34.4
 0100000US,,United States,0500000US42067,42067,United States - Pennsylvania - Juniata County,Juniata County,24636,10978,393.51,2.16,391.35,63.0,28.1
 0100000US,,United States,0500000US42069,42069,United States - Pennsylvania - Lackawanna County,Lackawanna County,214437,96832,464.91,5.83,459.08,467.1,210.9
 0100000US,,United States,0500000US42071,42071,United States - Pennsylvania - Lancaster County,Lancaster County,519445,202952,983.80,39.99,943.81,550.4,215.0
@@ -2328,7 +2328,7 @@ Id,Id2,Geography,Target Geo Id,Target Geo Id2,Geographical Area1,Geographical Ar
 0100000US,,United States,0500000US42085,42085,United States - Pennsylvania - Mercer County,Mercer County,116638,51733,682.61,10.03,672.57,173.4,76.9
 0100000US,,United States,0500000US42087,42087,United States - Pennsylvania - Mifflin County,Mifflin County,46682,21537,414.72,3.69,411.03,113.6,52.4
 0100000US,,United States,0500000US42089,42089,United States - Pennsylvania - Monroe County,Monroe County,169842,80359,617.26,8.97,608.29,279.2,132.1
-0100000US,,United States,0500000US42091,42091,United States - Pennsylvania - Montgomery County,Montgomery County,799874(r47962),325735(r24109),487.19,4.16,483.04,1655.9,674.3
+0100000US,,United States,0500000US42091,42091,United States - Pennsylvania - Montgomery County,Montgomery County,799874,325735,487.19,4.16,483.04,1655.9,674.3
 0100000US,,United States,0500000US42093,42093,United States - Pennsylvania - Montour County,Montour County,18267,7965,132.33,2.09,130.24,140.3,61.2
 0100000US,,United States,0500000US42095,42095,United States - Pennsylvania - Northampton County,Northampton County,297735,120363,377.40,7.72,369.67,805.4,325.6
 0100000US,,United States,0500000US42097,42097,United States - Pennsylvania - Northumberland County,Northumberland County,94528,45125,477.52,19.16,458.37,206.2,98.4
@@ -2367,7 +2367,7 @@ Id,Id2,Geography,Target Geo Id,Target Geo Id2,Geographical Area1,Geographical Ar
 0100000US,,United States,0500000US45015,45015,United States - South Carolina - Berkeley County,Berkeley County,177843,73372,1229.24,130.38,1098.86,161.8,66.8
 0100000US,,United States,0500000US45017,45017,United States - South Carolina - Calhoun County,Calhoun County,15175,7340,392.48,11.33,381.15,39.8,19.3
 0100000US,,United States,0500000US45019,45019,United States - South Carolina - Charleston County,Charleston County,350209,169984,1358.00,441.91,916.09,382.3,185.6
-0100000US,,United States,0500000US45021,45021,United States - South Carolina - Cherokee County,Cherokee County,55342(r48150),23997,397.18,4.52,392.66,140.9,61.1
+0100000US,,United States,0500000US45021,45021,United States - South Carolina - Cherokee County,Cherokee County,55342,23997,397.18,4.52,392.66,140.9,61.1
 0100000US,,United States,0500000US45023,45023,United States - South Carolina - Chester County,Chester County,33140,14701,586.16,5.51,580.66,57.1,25.3
 0100000US,,United States,0500000US45025,45025,United States - South Carolina - Chesterfield County,Chesterfield County,46734,21482,805.75,6.67,799.08,58.5,26.9
 0100000US,,United States,0500000US45027,45027,United States - South Carolina - Clarendon County,Clarendon County,34971,17467,695.65,88.71,606.94,57.6,28.8
@@ -2384,7 +2384,7 @@ Id,Id2,Geography,Target Geo Id,Target Geo Id2,Geographical Area1,Geographical Ar
 0100000US,,United States,0500000US45049,45049,United States - South Carolina - Hampton County,Hampton County,21090,9140,562.71,2.81,559.90,37.7,16.3
 0100000US,,United States,0500000US45051,45051,United States - South Carolina - Horry County,Horry County,269291,185992,1255.00,121.11,1133.90,237.5,164.0
 0100000US,,United States,0500000US45053,45053,United States - South Carolina - Jasper County,Jasper County,24777,10299,699.36,44.04,655.32,37.8,15.7
-0100000US,,United States,0500000US45055,45055,United States - South Carolina - Kershaw County,Kershaw County,61697(r48158),27478,740.40,13.83,726.56,84.9,37.8
+0100000US,,United States,0500000US45055,45055,United States - South Carolina - Kershaw County,Kershaw County,61697,27478,740.40,13.83,726.56,84.9,37.8
 0100000US,,United States,0500000US45057,45057,United States - South Carolina - Lancaster County,Lancaster County,76652,32687,555.12,5.96,549.16,139.6,59.5
 0100000US,,United States,0500000US45059,45059,United States - South Carolina - Laurens County,Laurens County,66537,30709,723.84,10.04,713.80,93.2,43.0
 0100000US,,United States,0500000US45061,45061,United States - South Carolina - Lee County,Lee County,19220,7775,411.23,1.05,410.18,46.9,19.0
@@ -2403,7 +2403,7 @@ Id,Id2,Geography,Target Geo Id,Target Geo Id2,Geographical Area1,Geographical Ar
 0100000US,,United States,0500000US45087,45087,United States - South Carolina - Union County,Union County,28961,14153,516.03,1.86,514.17,56.3,27.5
 0100000US,,United States,0500000US45089,45089,United States - South Carolina - Williamsburg County,Williamsburg County,34423,15359,937.04,2.88,934.16,36.8,16.4
 0100000US,,United States,0500000US45091,45091,United States - South Carolina - York County,York County,226073,94196,695.81,15.21,680.59,332.2,138.4
-0100000US,,United States,0400000US46,46,United States - South Dakota,South Dakota,814180(r48166),363438(r24270),77115.68,1304.68,75811.00,10.7,4.8
+0100000US,,United States,0400000US46,46,United States - South Dakota,South Dakota,814180,363438,77115.68,1304.68,75811.00,10.7,4.8
 0100000US,,United States,0500000US46003,46003,United States - South Dakota - Aurora County,Aurora County,2710,1324,712.75,4.32,708.42,3.8,1.9
 0100000US,,United States,0500000US46005,46005,United States - South Dakota - Beadle County,Beadle County,17398,8304,1264.81,6.10,1258.71,13.8,6.6
 0100000US,,United States,0500000US46007,46007,United States - South Dakota - Bennett County,Bennett County,3431,1263,1190.50,5.80,1184.71,2.9,1.1
@@ -2426,7 +2426,7 @@ Id,Id2,Geography,Target Geo Id,Target Geo Id2,Geographical Area1,Geographical Ar
 0100000US,,United States,0500000US46041,46041,United States - South Dakota - Dewey County,Dewey County,5301,2002,2445.28,142.79,2302.49,2.3,0.9
 0100000US,,United States,0500000US46043,46043,United States - South Dakota - Douglas County,Douglas County,3002,1439,433.67,1.87,431.80,7.0,3.3
 0100000US,,United States,0500000US46045,46045,United States - South Dakota - Edmunds County,Edmunds County,4071,1966,1151.07,25.11,1125.96,3.6,1.7
-0100000US,,United States,0500000US46047,46047,United States - South Dakota - Fall River County,Fall River County,7094,4191(r24279),1749.15,9.23,1739.92,4.1,2.4
+0100000US,,United States,0500000US46047,46047,United States - South Dakota - Fall River County,Fall River County,7094,4191,1749.15,9.23,1739.92,4.1,2.4
 0100000US,,United States,0500000US46049,46049,United States - South Dakota - Faulk County,Faulk County,2364,1136,1005.96,24.21,981.75,2.4,1.2
 0100000US,,United States,0500000US46051,46051,United States - South Dakota - Grant County,Grant County,7356,3526,687.54,6.08,681.46,10.8,5.2
 0100000US,,United States,0500000US46053,46053,United States - South Dakota - Gregory County,Gregory County,4271,2503,1053.53,38.57,1014.96,4.2,2.5
@@ -2449,12 +2449,12 @@ Id,Id2,Geography,Target Geo Id,Target Geo Id2,Geographical Area1,Geographical Ar
 0100000US,,United States,0500000US46087,46087,United States - South Dakota - McCook County,McCook County,5618,2491,576.87,2.66,574.20,9.8,4.3
 0100000US,,United States,0500000US46089,46089,United States - South Dakota - McPherson County,McPherson County,2459,1418,1151.54,14.89,1136.64,2.2,1.2
 0100000US,,United States,0500000US46091,46091,United States - South Dakota - Marshall County,Marshall County,4656,2534,886.22,48.16,838.07,5.6,3.0
-0100000US,,United States,0500000US46093,46093,United States - South Dakota - Meade County,Meade County,25434(r48175),11000(r24287),3482.85,11.86,3470.98,7.3,3.2
+0100000US,,United States,0500000US46093,46093,United States - South Dakota - Meade County,Meade County,25434,11000,3482.85,11.86,3470.98,7.3,3.2
 0100000US,,United States,0500000US46095,46095,United States - South Dakota - Mellette County,Mellette County,2048,838,1310.87,3.56,1307.31,1.6,0.6
 0100000US,,United States,0500000US46097,46097,United States - South Dakota - Miner County,Miner County,2389,1308,571.93,1.62,570.31,4.2,2.3
 0100000US,,United States,0500000US46099,46099,United States - South Dakota - Minnehaha County,Minnehaha County,169468,71557,813.86,6.72,807.15,210.0,88.7
 0100000US,,United States,0500000US46101,46101,United States - South Dakota - Moody County,Moody County,6486,2824,520.81,1.42,519.39,12.5,5.4
-0100000US,,United States,0500000US46103,46103,United States - South Dakota - Pennington County,Pennington County,100948(r48348),44949(r24462),2784.26,7.71,2776.55,36.4,16.2
+0100000US,,United States,0500000US46103,46103,United States - South Dakota - Pennington County,Pennington County,100948,44949,2784.26,7.71,2776.55,36.4,16.2
 0100000US,,United States,0500000US46105,46105,United States - South Dakota - Perkins County,Perkins County,2982,1739,2889.99,19.51,2870.48,1.0,0.6
 0100000US,,United States,0500000US46107,46107,United States - South Dakota - Potter County,Potter County,2329,1500,898.67,37.53,861.14,2.7,1.7
 0100000US,,United States,0500000US46109,46109,United States - South Dakota - Roberts County,Roberts County,10149,4905,1135.77,34.73,1101.04,9.2,4.5
@@ -2566,7 +2566,7 @@ Id,Id2,Geography,Target Geo Id,Target Geo Id2,Geographical Area1,Geographical Ar
 0100000US,,United States,0500000US47185,47185,United States - Tennessee - White County,White County,25841,11511,379.43,2.75,376.67,68.6,30.6
 0100000US,,United States,0500000US47187,47187,United States - Tennessee - Williamson County,Williamson County,183182,68498,583.77,1.17,582.60,314.4,117.6
 0100000US,,United States,0500000US47189,47189,United States - Tennessee - Wilson County,Wilson County,113993,45568,583.20,12.37,570.83,199.7,79.8
-0100000US,,United States,0400000US48,48,United States - Texas,Texas,25145561(r48514),9977436(r24592),268596.46,7364.75,261231.71,96.3,38.2
+0100000US,,United States,0400000US48,48,United States - Texas,Texas,25145561,9977436,268596.46,7364.75,261231.71,96.3,38.2
 0100000US,,United States,0500000US48001,48001,United States - Texas - Anderson County,Anderson County,58458,20116,1078.00,15.40,1062.60,55.0,18.9
 0100000US,,United States,0500000US48003,48003,United States - Texas - Andrews County,Andrews County,14786,5814,1501.08,0.37,1500.71,9.9,3.9
 0100000US,,United States,0500000US48005,48005,United States - Texas - Angelina County,Angelina County,86771,35589,864.71,66.93,797.78,108.8,44.6
@@ -2674,7 +2674,7 @@ Id,Id2,Geography,Target Geo Id,Target Geo Id2,Geographical Area1,Geographical Ar
 0100000US,,United States,0500000US48209,48209,United States - Texas - Hays County,Hays County,157107,59417,679.92,1.95,677.98,231.7,87.6
 0100000US,,United States,0500000US48211,48211,United States - Texas - Hemphill County,Hemphill County,3807,1629,912.16,5.87,906.29,4.2,1.8
 0100000US,,United States,0500000US48213,48213,United States - Texas - Henderson County,Henderson County,78532,39595,948.33,74.58,873.75,89.9,45.3
-0100000US,,United States,0500000US48215,48215,United States - Texas - Hidalgo County,Hidalgo County,774769(r48754),248287(r24826),1582.91,12.04,1570.87,493.2,158.1
+0100000US,,United States,0500000US48215,48215,United States - Texas - Hidalgo County,Hidalgo County,774769,248287,1582.91,12.04,1570.87,493.2,158.1
 0100000US,,United States,0500000US48217,48217,United States - Texas - Hill County,Hill County,35089,16118,985.72,26.86,958.86,36.6,16.8
 0100000US,,United States,0500000US48219,48219,United States - Texas - Hockley County,Hockley County,22935,9293,908.56,0.17,908.39,25.2,10.2
 0100000US,,United States,0500000US48221,48221,United States - Texas - Hood County,Hood County,51182,24951,436.83,16.19,420.64,121.7,59.3
@@ -2868,7 +2868,7 @@ Id,Id2,Geography,Target Geo Id,Target Geo Id2,Geographical Area1,Geographical Ar
 0100000US,,United States,0500000US50027,50027,United States - Vermont - Windsor County,Windsor County,56670,34118,976.78,7.45,969.34,58.5,35.2
 0100000US,,United States,0400000US51,51,United States - Virginia,Virginia,8001024,3364939,42774.93,3284.84,39490.09,202.6,85.2
 0100000US,,United States,0500000US51001,51001,United States - Virginia - Accomack County,Accomack County,33164,21002,1310.04,860.54,449.50,73.8,46.7
-0100000US,,United States,0500000US51003,51003,United States - Virginia - Albemarle County,Albemarle County,98970(r49499),42122,726.12,5.42,720.70,137.3,58.4
+0100000US,,United States,0500000US51003,51003,United States - Virginia - Albemarle County,Albemarle County,98970,42122,726.12,5.42,720.70,137.3,58.4
 0100000US,,United States,0500000US51005,51005,United States - Virginia - Alleghany County,Alleghany County,16250,8074,448.75,3.30,445.46,36.5,18.1
 0100000US,,United States,0500000US51007,51007,United States - Virginia - Amelia County,Amelia County,12690,5359,358.52,3.25,355.27,35.7,15.1
 0100000US,,United States,0500000US51009,51009,United States - Virginia - Amherst County,Amherst County,32353,13976,478.85,4.92,473.93,68.3,29.5
@@ -2895,7 +2895,7 @@ Id,Id2,Geography,Target Geo Id,Target Geo Id2,Geographical Area1,Geographical Ar
 0100000US,,United States,0500000US51051,51051,United States - Virginia - Dickenson County,Dickenson County,15903,7579,333.66,3.13,330.53,48.1,22.9
 0100000US,,United States,0500000US51053,51053,United States - Virginia - Dinwiddie County,Dinwiddie County,28001,11422,507.19,3.48,503.72,55.6,22.7
 0100000US,,United States,0500000US51057,51057,United States - Virginia - Essex County,Essex County,11151,5757,286.00,28.88,257.12,43.4,22.4
-0100000US,,United States,0500000US51059,51059,United States - Virginia - Fairfax County,Fairfax County,1081726(r49532),407998(r25516),406.25,15.28,390.97,2766.8,1043.6
+0100000US,,United States,0500000US51059,51059,United States - Virginia - Fairfax County,Fairfax County,1081726,407998,406.25,15.28,390.97,2766.8,1043.6
 0100000US,,United States,0500000US51061,51061,United States - Virginia - Fauquier County,Fauquier County,65203,25600,651.23,3.78,647.45,100.7,39.5
 0100000US,,United States,0500000US51063,51063,United States - Virginia - Floyd County,Floyd County,15279,7790,381.29,0.87,380.42,40.2,20.5
 0100000US,,United States,0500000US51065,51065,United States - Virginia - Fluvanna County,Fluvanna County,25691,10383,290.15,4.14,286.01,89.8,36.3
@@ -2961,12 +2961,12 @@ Id,Id2,Geography,Target Geo Id,Target Geo Id2,Geographical Area1,Geographical Ar
 0100000US,,United States,0500000US51193,51193,United States - Virginia - Westmoreland County,Westmoreland County,17454,10618,252.97,23.59,229.37,76.1,46.3
 0100000US,,United States,0500000US51195,51195,United States - Virginia - Wise County,Wise County,41452,17940,405.23,2.04,403.19,102.8,44.5
 0100000US,,United States,0500000US51197,51197,United States - Virginia - Wythe County,Wythe County,29235,14079,464.65,2.82,461.82,63.3,30.5
-0100000US,,United States,0500000US51199,51199,United States - Virginia - York County,York County,65464(r49647),26849(r25607),214.96,110.18,104.78,624.8,256.2
-0100000US,,United States,0500000US51510,51510,United States - Virginia - Alexandria city,Alexandria city,139966(r49658),72376(r25618),15.47,0.44,15.03,9314.3,4816.4
+0100000US,,United States,0500000US51199,51199,United States - Virginia - York County,York County,65464,26849,214.96,110.18,104.78,624.8,256.2
+0100000US,,United States,0500000US51510,51510,United States - Virginia - Alexandria city,Alexandria city,139966,72376,15.47,0.44,15.03,9314.3,4816.4
 0100000US,,United States,0500000US51515,51515,United States - Virginia - Bedford city,Bedford city,6222,2920,6.90,0.02,6.88,904.6,424.5
 0100000US,,United States,0500000US51520,51520,United States - Virginia - Bristol city,Bristol city,17835,8831,13.15,0.14,13.01,1370.6,678.6
 0100000US,,United States,0500000US51530,51530,United States - Virginia - Buena Vista city,Buena Vista city,6650,2936,6.79,0.09,6.70,992.0,438.0
-0100000US,,United States,0500000US51540,51540,United States - Virginia - Charlottesville city,Charlottesville city,43475(r49677),19189,10.26,0.02,10.24,4246.3,1874.2
+0100000US,,United States,0500000US51540,51540,United States - Virginia - Charlottesville city,Charlottesville city,43475,19189,10.26,0.02,10.24,4246.3,1874.2
 0100000US,,United States,0500000US51550,51550,United States - Virginia - Chesapeake city,Chesapeake city,222209,83196,350.86,10.06,340.80,652.0,244.1
 0100000US,,United States,0500000US51570,51570,United States - Virginia - Colonial Heights city,Colonial Heights city,17411,7831,7.81,0.29,7.52,2315.3,1041.4
 0100000US,,United States,0500000US51580,51580,United States - Virginia - Covington city,Covington city,5961,3067,5.67,0.20,5.47,1090.1,560.8
@@ -2977,7 +2977,7 @@ Id,Id2,Geography,Target Geo Id,Target Geo Id2,Geographical Area1,Geographical Ar
 0100000US,,United States,0500000US51620,51620,United States - Virginia - Franklin city,Franklin city,8582,3901,8.35,0.14,8.21,1045.8,475.4
 0100000US,,United States,0500000US51630,51630,United States - Virginia - Fredericksburg city,Fredericksburg city,24286,10467,10.51,0.07,10.44,2326.2,1002.6
 0100000US,,United States,0500000US51640,51640,United States - Virginia - Galax city,Galax city,7042,3252,8.28,0.04,8.24,854.7,394.7
-0100000US,,United States,0500000US51650,51650,United States - Virginia - Hampton city,Hampton city,137436(r49692),59566(r25637),136.30,84.89,51.41,2673.2,1158.6
+0100000US,,United States,0500000US51650,51650,United States - Virginia - Hampton city,Hampton city,137436,59566,136.30,84.89,51.41,2673.2,1158.6
 0100000US,,United States,0500000US51660,51660,United States - Virginia - Harrisonburg city,Harrisonburg city,48914,17444,17.48,0.06,17.42,2808.2,1001.5
 0100000US,,United States,0500000US51670,51670,United States - Virginia - Hopewell city,Hopewell city,22591,10121,10.80,0.52,10.28,2197.9,984.7
 0100000US,,United States,0500000US51678,51678,United States - Virginia - Lexington city,Lexington city,7042,2546,2.52,0.03,2.50,2820.3,1019.7
@@ -2985,7 +2985,7 @@ Id,Id2,Geography,Target Geo Id,Target Geo Id2,Geographical Area1,Geographical Ar
 0100000US,,United States,0500000US51683,51683,United States - Virginia - Manassas city,Manassas city,37821,13123,9.94,0.06,9.88,3827.8,1328.1
 0100000US,,United States,0500000US51685,51685,United States - Virginia - Manassas Park city,Manassas Park city,14273,4904,2.53,0.00,2.53,5633.1,1935.5
 0100000US,,United States,0500000US51690,51690,United States - Virginia - Martinsville city,Martinsville city,13821,7205,11.01,0.05,10.96,1261.5,657.6
-0100000US,,United States,0500000US51700,51700,United States - Virginia - Newport News city,Newport News city,180719(r49714),76198(r25648),119.48,50.76,68.71,2630.0,1108.9
+0100000US,,United States,0500000US51700,51700,United States - Virginia - Newport News city,Newport News city,180719,76198,119.48,50.76,68.71,2630.0,1108.9
 0100000US,,United States,0500000US51710,51710,United States - Virginia - Norfolk city,Norfolk city,242803,95018,96.35,42.23,54.12,4486.3,1755.7
 0100000US,,United States,0500000US51720,51720,United States - Virginia - Norton city,Norton city,3958,1945,7.52,0.03,7.48,529.1,260.0
 0100000US,,United States,0500000US51730,51730,United States - Virginia - Petersburg city,Petersburg city,32420,16326,23.18,0.25,22.93,1413.8,711.9
@@ -2999,7 +2999,7 @@ Id,Id2,Geography,Target Geo Id,Target Geo Id2,Geographical Area1,Geographical Ar
 0100000US,,United States,0500000US51800,51800,United States - Virginia - Suffolk city,Suffolk city,84585,33035,429.09,28.92,400.17,211.4,82.6
 0100000US,,United States,0500000US51810,51810,United States - Virginia - Virginia Beach city,Virginia Beach city,437994,177879,497.34,248.32,249.02,1758.9,714.3
 0100000US,,United States,0500000US51820,51820,United States - Virginia - Waynesboro city,Waynesboro city,21006,9717,15.20,0.16,15.04,1396.8,646.1
-0100000US,,United States,0500000US51830,51830,United States - Virginia - Williamsburg city,Williamsburg city,14068(r49741),5176(r25667),9.18,0.16,9.02,1559.3,573.7
+0100000US,,United States,0500000US51830,51830,United States - Virginia - Williamsburg city,Williamsburg city,14068,5176,9.18,0.16,9.02,1559.3,573.7
 0100000US,,United States,0500000US51840,51840,United States - Virginia - Winchester city,Winchester city,26203,11872,9.25,0.02,9.23,2838.1,1285.9
 0100000US,,United States,0400000US53,53,United States - Washington,Washington,6724540,2885677,71297.95,4842.43,66455.52,101.2,43.4
 0100000US,,United States,0500000US53001,53001,United States - Washington - Adams County,Adams County,18728,6242,1929.85,4.87,1924.98,9.7,3.2
@@ -3194,7 +3194,7 @@ Id,Id2,Geography,Target Geo Id,Target Geo Id2,Geographical Area1,Geographical Ar
 0100000US,,United States,0500000US56041,56041,United States - Wyoming - Uinta County,Uinta County,21118,8713,2087.57,6.31,2081.26,10.1,4.2
 0100000US,,United States,0500000US56043,56043,United States - Wyoming - Washakie County,Washakie County,8533,3833,2242.70,4.16,2238.55,3.8,1.7
 0100000US,,United States,0500000US56045,56045,United States - Wyoming - Weston County,Weston County,7208,3533,2400.02,1.93,2398.09,3.0,1.5
-0100000US,,United States,0400000US72,72,Puerto Rico,Puerto Rico,3725789(r49850),1636946(r25701),5324.84,1901.07,3423.78,1088.2,478.1
+0100000US,,United States,0400000US72,72,Puerto Rico,Puerto Rico,3725789,1636946,5324.84,1901.07,3423.78,1088.2,478.1
 0100000US,,United States,0500000US72001,72001,Puerto Rico - Adjuntas Municipio,Adjuntas Municipio,19483,8125,67.10,0.41,66.69,292.1,121.8
 0100000US,,United States,0500000US72003,72003,Puerto Rico - Aguada Municipio,Aguada Municipio,41959,18258,45.54,14.69,30.85,1360.0,591.8
 0100000US,,United States,0500000US72005,72005,Puerto Rico - Aguadilla Municipio,Aguadilla Municipio,60949,28430,75.58,39.05,36.53,1668.5,778.3
@@ -3227,7 +3227,7 @@ Id,Id2,Geography,Target Geo Id,Target Geo Id2,Geographical Area1,Geographical Ar
 0100000US,,United States,0500000US72057,72057,Puerto Rico - Guayama Municipio,Guayama Municipio,45362,19711,106.82,41.83,64.99,698.0,303.3
 0100000US,,United States,0500000US72059,72059,Puerto Rico - Guayanilla Municipio,Guayanilla Municipio,21581,8725,64.24,21.97,42.27,510.5,206.4
 0100000US,,United States,0500000US72061,72061,Puerto Rico - Guaynabo Municipio,Guaynabo Municipio,97924,42012,27.76,0.19,27.58,3550.7,1523.4
-0100000US,,United States,0500000US72063,72063,Puerto Rico - Gurabo Municipio,Gurabo Municipio,45369(r49851),18108(r25702),28.31,0.43,27.89,1626.9,649.3
+0100000US,,United States,0500000US72063,72063,Puerto Rico - Gurabo Municipio,Gurabo Municipio,45369,18108,28.31,0.43,27.89,1626.9,649.3
 0100000US,,United States,0500000US72065,72065,Puerto Rico - Hatillo Municipio,Hatillo Municipio,41953,17365,58.76,16.98,41.78,1004.1,415.6
 0100000US,,United States,0500000US72067,72067,Puerto Rico - Hormigueros Municipio,Hormigueros Municipio,17250,7783,11.34,0.00,11.34,1520.6,686.1
 0100000US,,United States,0500000US72069,72069,Puerto Rico - Humacao Municipio,Humacao Municipio,58466,28100,71.40,26.64,44.75,1306.4,627.9
