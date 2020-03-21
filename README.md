@@ -24,7 +24,9 @@ First step in analysis:
 collect longitudinal data about those points
  Plot average temperature and # of wildfires to determine correlation
 
+Google Slide link is below:
 
+https://docs.google.com/presentation/d/1oi3hWiER92GDA3QvJHg4dgrXnxhKYUGcniX7T1FTKgY/edit#slide=id.p
 
 
 
